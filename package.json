@@ -1,5 +1,4 @@
-# For React and React DOM
+
 npm install react react-dom
 
-# For Tailwind CSS and its dependencies
 npm install -D tailwindcss postcss autoprefixer
