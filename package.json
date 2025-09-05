@@ -1,4 +1,19 @@
-
-npm install react react-dom
-
-npm install -D tailwindcss postcss autoprefixer
+{
+  "name": "proposal-website",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "framer-motion": "^10.18.0",
+    "react": "^18.3.1",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
