@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Editor from "./components/Editor";
-import SectionsEditor from "./components/SectionsEditor";
-import Preview from "./components/Preview";
+import Editor from "./components/Editor.jsx";
+import SectionsEditor from "./components/SectionsEditor.jsx";
+import Preview from "./components/Preview.jsx";
 
 export default function App() {
   const defaultTemplates = [
